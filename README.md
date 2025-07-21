@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello+there+!+I'm+Islam+S.M.N.+👋;I'm+a+Graduate+Student.+👨‍💻;I+love+coding+and+design+💕;Theoritical+Computer+Science+is+mydream+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello+there+!+I'm+Noor+Islam+S.Mohammad+👋;I'm+a+Graduate+Student.+👨‍💻;I+love+coding+and+design+💕;Theoritical+Computer+Science+is+mydream+✨)](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=drmnislam)
-[![Github](https://img.shields.io/github/followers/drmnislam?label=Follow&style=social)](https://github.com/drmnislam)
+![Profile views](https://komarev.com/ghpvc/?username=csislam)
+[![Github](https://img.shields.io/github/followers/csislam?label=Follow&style=social)](https://github.com/csislam)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <img src="developer.gif" alt="coding boy gif" width="300" align='right' />
